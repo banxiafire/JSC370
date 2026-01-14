@@ -57,7 +57,7 @@ git push
 ### Add link to your repo below in the cell chunk:
 
 ```sh
-
+https://github.com/banxiafire/JSC370
 ```
 
 ---
@@ -179,9 +179,9 @@ For more information checkout [Creating a pull request](https://docs.github.com/
 * Add details of the pull request below (the commit id of your change (you can find this using `git log`)
 
 ```sh
-commit:
-Author:
-Date:
+commit: 02c026bf9fe4c19bd76d2d41e0999bc0dd7b3ee9
+Author: banxiafire <104917595+banxiafire@users.noreply.github.com>
+Date: Wed Jan 14 13:44:24 2026 -0500
 ```
 
 ---
